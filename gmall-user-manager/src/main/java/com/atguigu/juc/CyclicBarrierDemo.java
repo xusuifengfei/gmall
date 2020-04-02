@@ -8,7 +8,7 @@ import java.util.concurrent.CyclicBarrier;
  * @version V1.0
  * @Package com.atguigu.juc
  * @date 2020/4/2 0002 10:31
- * @Description 循环栅栏
+ * @Description 循环栅栏 集齐七颗龙珠，召唤神龙
  */
 public class CyclicBarrierDemo {
     public static void main(String[] args) {
